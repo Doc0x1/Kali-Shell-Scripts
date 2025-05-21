@@ -21,6 +21,6 @@ chmod +x ./no-more-external-pip.sh
 sudo bash ./no-more-external-pip.sh
 ```
 
-The script will find all EXTERNALY-MANAGED files for the Python versions installed on the Linux system and remove them.
+The script will find all EXTERNALLY-MANAGED files for the Python versions installed on the Linux system and remove them.
 
 Afterwards you won't have to worry about any more issues using pip install without venv.
